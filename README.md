@@ -23,13 +23,6 @@
 </a>
 
 </p>
-   
-
-<a href="https://github.com/subhan513">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-</p>
 
 ---
 
