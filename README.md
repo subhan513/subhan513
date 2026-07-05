@@ -1,210 +1,213 @@
-# Hi 👋, I'm Muhammad Subhan
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack MERN Developer | AI-Powered SaaS Builder | React • Next.js • Node.js
-</h3>
+# 👋 Hi, I'm Muhammad Subhan
 
-<p align="center">
-Passionate Full Stack Engineer with 1+ years of professional experience building scalable SaaS applications, AI-powered products, secure REST APIs, and modern web applications.
-</p>
+### 🚀 Full Stack MERN Developer | AI-Powered SaaS Builder | React • Next.js • Node.js
 
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Production+Ready+SaaS+Applications;React+%7C+Next.js+%7C+Node.js+Developer;AI+Integration+%7C+REST+APIs+%7C+PostgreSQL;Open+to+Remote+Full+Stack+Opportunities" />
+
+<p>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:subhancs57@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
 </a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+</a>
+
 </p>
+
+</div>
 
 ---
 
 # 💫 About Me
 
-✅ Full Stack MERN Developer
+💻 Full Stack MERN Developer with **1+ years of professional experience** building scalable web applications.
 
-🤖 AI Powered SaaS Applications
+🚀 Experienced in developing **AI-powered SaaS products**, secure REST APIs, authentication systems, and responsive frontend applications.
 
-⚡ React.js & Next.js Expert
+⚡ Passionate about solving real-world problems using modern web technologies and clean architecture.
 
-🔐 Authentication • JWT • RBAC
+🎯 Currently exploring **AI Agents**, **LLM Integrations**, and **Scalable SaaS Architecture**.
 
-💳 Stripe Payment Integration
-
-📦 REST API Development
-
-🗄️ MongoDB & PostgreSQL
-
-🚀 Passionate about building production-ready applications
+🌍 Open to **Remote Full Stack Engineering Opportunities**.
 
 ---
 
 # 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgresql,firebase,git,github,postman,vscode,npm,yarn,vite,vercel,figma,linux,bash&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgresql,firebase,git,github,postman,vscode,npm,vite,vercel,linux,bash,figma&theme=dark&perline=8"/>
 
-</p>
+</div>
 
 ---
 
-# 🧠 AI & Backend Technologies
+# 🤖 Backend • AI • SaaS
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
-
-<img src="https://img.shields.io/badge/RBAC-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens"/>
 
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe"/>
 
-<img src="https://img.shields.io/badge/SaaS-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RBAC-2C3E50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 
 <img src="https://img.shields.io/badge/Responsive_UI-success?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/API_Integration-orange?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/SaaS-0052CC?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/System_Design-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Performance_Optimization-red?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# ⭐ Featured Projects
+# 💼 Professional Experience
+
+## Full Stack Developer — ZedStack
+
+* 🚀 Built an AI-powered Headshot Generator
+* 🤖 Integrated AI APIs for image generation
+* ⚡ Improved response efficiency
+* 💻 Developed responsive React interfaces
+* 🔐 Built secure backend APIs
+
+---
+
+# 🌟 Featured Projects
 
 ## 🛒 Vendor-Sphere
 
-Production-grade Multi Vendor E-Commerce Platform
+Production-grade Multi-Vendor SaaS Platform
 
-✔ Admin Dashboard
+✅ Admin Dashboard
 
-✔ Vendor Dashboard
+✅ Vendor Dashboard
 
-✔ Customer Dashboard
+✅ Customer Dashboard
 
-✔ Stripe Integration
+✅ Stripe Payments
 
-✔ JWT Authentication
+✅ JWT Authentication
 
-✔ RBAC
+✅ RBAC
 
-✔ Order Management
+✅ Order Management
 
-✔ REST APIs
-
-✔ Responsive UI
+✅ REST APIs
 
 ---
 
 ## 🤖 AI Headshot Generator
 
-Generate professional profile images using AI APIs.
-
-Tech:
-
-React
-
-Node.js
-
-Express.js
-
-MongoDB
-
-AI APIs
+AI-powered application for generating professional headshots using AI image generation APIs.
 
 ---
 
 ## 🧠 Bug Hunter AI
 
-AI Powered Coding Interview Platform
+AI-powered coding interview preparation platform.
 
-Features
+Features:
 
-• AI Debugging
-
-• Smart Hints
-
-• Interactive Code Editor
-
-• Mock Interviews
+* AI Debugging
+* Smart Hints
+* Interactive Code Editor
+* Mock Interviews
 
 ---
 
 ## 🏠 Real Estate Marketplace
 
-Scalable MERN Marketplace
+Scalable MERN application with property listings, authentication, filtering, and responsive UI.
 
-✔ Authentication
+---
 
-✔ Property Search
+# 📊 GitHub Analytics
 
-✔ Filters
+<div align="center">
 
-✔ Responsive UI
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-✔ REST APIs
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
 
 ---
 
 # 📚 Currently Learning
 
-🚀 AI Agents
-
-🚀 LLM Integrations
-
-🚀 Advanced System Design
-
-🚀 Cloud Architecture
-
----
-
-# 💻 Coding Profiles
-
-🌐 GitHub
-
-🌐 LinkedIn
-
-🌐 Portfolio
-
-🌐 LeetCode
-
-🌐 HackerRank
+* 🤖 AI Agents
+* 🧠 LLM Integrations
+* 🏗️ System Design
+* ☁️ Cloud Architecture
+* 📈 Scalable SaaS Systems
 
 ---
 
 # 🤝 Let's Connect
 
-📧 Email:
-[subhancs57@gmail.com](mailto:subhancs57@gmail.com)
+📧 **Email:** [subhancs57@gmail.com](mailto:subhancs57@gmail.com)
 
-💼 Open to:
+💼 **Open to:**
 
-✔ Remote Full Stack Roles
-
-✔ AI Startup Opportunities
-
-✔ SaaS Engineering
-
-✔ React / Next.js Development
-
-✔ Freelance Projects
+* Full Stack Engineering
+* AI SaaS Development
+* React.js & Next.js
+* Node.js Backend
+* Remote Opportunities
+* Freelance Projects
 
 ---
 
-⭐ *Building software that solves real-world problems through clean architecture, scalable systems, and AI-powered experiences.*
+<div align="center">
+
+### ⭐ "Building scalable software that solves real-world problems through clean code, modern architecture, and AI-powered innovation."
+
+</div>
