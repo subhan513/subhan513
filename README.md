@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center">
+<p align="center" display="flex" justify-content="center">
 
 <a href="https://www.linkedin.com/in/muhammadsubhandev/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
