@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Muhammad Subhan
+
+<h3 align="center">
+   Hi, I'm Muhammad Subhan
+</h3>
 
 <h3 align="center">
 🚀 Full Stack MERN Developer • AI-Powered SaaS Builder • React • Next.js • Node.js
