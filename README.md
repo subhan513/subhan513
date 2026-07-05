@@ -1,44 +1,66 @@
-<div align="center">
-
 # 👋 Hi, I'm Muhammad Subhan
 
-### 🚀 Full Stack MERN Developer | AI-Powered SaaS Builder | React • Next.js • Node.js
+<h3 align="center">
+🚀 Full Stack MERN Developer • AI-Powered SaaS Builder • React • Next.js • Node.js
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Production+Ready+SaaS+Applications;React+%7C+Next.js+%7C+Node.js+Developer;AI+Integration+%7C+REST+APIs+%7C+PostgreSQL;Open+to+Remote+Full+Stack+Opportunities" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;AI+Powered+SaaS+Builder;React+%7C+Next.js+%7C+Node.js;Building+Production+Ready+Applications;Open+to+Remote+Opportunities" />
+</p>
 
-<p>
+---
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/muhammadsubhandev/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
+
+   
 
 <a href="mailto:subhancs57@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55"/>
 </a>
+
+   
 
 <a href="https://subhanportfolio-two.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+<img src="https://img.icons8.com/fluency/96/domain.png" width="55"/>
 </a>
 
+   
+
 <a href="https://github.com/subhan513">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 </p>
 
-</div>
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Work-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Experience-1%2B%20Years-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20SaaS-purple?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 💫 About Me
 
-💻 Full Stack MERN Developer with **1+ years of professional experience** building scalable web applications.
+💻 Full Stack MERN Developer with **1+ years of professional experience** building production-ready web applications.
 
-🚀 Experienced in developing **AI-powered SaaS products**, secure REST APIs, authentication systems, and responsive frontend applications.
+🚀 Passionate about building scalable SaaS platforms, AI-powered applications, REST APIs, and modern user experiences.
 
-⚡ Passionate about solving real-world problems using modern web technologies and clean architecture.
+🤖 Experienced in integrating AI APIs, secure authentication, Stripe payments, and scalable backend architectures.
 
-🎯 Currently exploring **AI Agents**, **LLM Integrations**, and **Scalable SaaS Architecture**.
+🌱 Currently learning **AI Agents**, **LLM Integrations**, **System Design**, and **Cloud Architecture**.
 
 🌍 Open to **Remote Full Stack Engineering Opportunities**.
 
@@ -48,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgresql,firebase,git,github,postman,vscode,npm,vite,vercel,linux,bash,figma&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgresql,firebase,git,github,postman,vscode,npm,vite,vercel,linux,bash,figma,docker&theme=dark&perline=7"/>
 
 </div>
 
@@ -64,21 +86,19 @@
 
 <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens"/>
 
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe"/>
-
 <img src="https://img.shields.io/badge/RBAC-2C3E50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 
-<img src="https://img.shields.io/badge/Responsive_UI-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/API_Integration-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SaaS-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance_Optimization-success?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/System_Design-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Integration-red?style=for-the-badge"/>
 
 </div>
 
@@ -86,128 +106,171 @@
 
 # 💼 Professional Experience
 
-## Full Stack Developer — ZedStack
+## 🚀 Full Stack Developer | ZedStack
 
-* 🚀 Built an AI-powered Headshot Generator
-* 🤖 Integrated AI APIs for image generation
-* ⚡ Improved response efficiency
-* 💻 Developed responsive React interfaces
-* 🔐 Built secure backend APIs
+* 🤖 Developed an AI-powered Headshot Generator.
+* ⚡ Integrated AI APIs to improve image generation efficiency.
+* 💻 Built responsive React.js interfaces.
+* 🔐 Developed secure backend APIs.
+* 🚀 Improved overall application performance and user experience.
 
 ---
 
-# 🌟 Featured Projects
+# ⭐ Featured Projects
 
 ## 🛒 Vendor-Sphere
 
-Production-grade Multi-Vendor SaaS Platform
+Production-grade Multi-Vendor E-Commerce SaaS Platform
 
-✅ Admin Dashboard
+### Features
 
-✅ Vendor Dashboard
+* ✅ Admin Dashboard
+* ✅ Vendor Dashboard
+* ✅ Customer Dashboard
+* ✅ Stripe Subscription System
+* ✅ Vendor Payouts
+* ✅ JWT Authentication
+* ✅ RBAC
+* ✅ REST APIs
+* ✅ Product Management
+* ✅ Order Management
+* ✅ Responsive Design
 
-✅ Customer Dashboard
+**Tech Stack**
 
-✅ Stripe Payments
-
-✅ JWT Authentication
-
-✅ RBAC
-
-✅ Order Management
-
-✅ REST APIs
+React • Next.js • Node.js • Express • MongoDB • PostgreSQL • Stripe
 
 ---
 
 ## 🤖 AI Headshot Generator
 
-AI-powered application for generating professional headshots using AI image generation APIs.
+Generate professional AI-powered headshots using modern AI APIs.
+
+**Features**
+
+* AI Image Generation
+* Image Upload
+* Responsive UI
+* Fast Processing
 
 ---
 
 ## 🧠 Bug Hunter AI
 
-AI-powered coding interview preparation platform.
+AI-powered Coding Interview Preparation Platform
 
-Features:
+### Features
 
 * AI Debugging
 * Smart Hints
 * Interactive Code Editor
 * Mock Interviews
+* AI Feedback
 
 ---
 
-## 🏠 Real Estate Marketplace
+## 🏡 Real Estate Marketplace
 
-Scalable MERN application with property listings, authentication, filtering, and responsive UI.
+Modern Property Listing Platform
 
----
+### Features
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
+* Authentication
+* Property Search
+* Advanced Filters
+* Responsive Design
+* REST APIs
 
 ---
 
-<div align="center">
+# 📈 GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<p align="center">
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhan513&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan513&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=subhan513&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 📚 Currently Learning
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=subhan513&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan513&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
 
 * 🤖 AI Agents
 * 🧠 LLM Integrations
 * 🏗️ System Design
-* ☁️ Cloud Architecture
-* 📈 Scalable SaaS Systems
+* ☁️ Cloud Deployment
+* ⚙️ Scalable SaaS Architecture
+
+---
+
+# 📌 Current Focus
+
+✔ Building AI-powered SaaS Applications
+
+✔ Production-Ready MERN Stack Projects
+
+✔ Advanced React & Next.js
+
+✔ Backend Performance Optimization
+
+✔ Clean Architecture
+
+✔ Writing Maintainable Code
 
 ---
 
 # 🤝 Let's Connect
 
-📧 **Email:** [subhancs57@gmail.com](mailto:subhancs57@gmail.com)
+<p align="center">
 
-💼 **Open to:**
+<a href="https://www.linkedin.com/in/muhammadsubhandev/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-* Full Stack Engineering
-* AI SaaS Development
-* React.js & Next.js
-* Node.js Backend
-* Remote Opportunities
-* Freelance Projects
+<a href="https://subhanportfolio-two.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
+</a>
+
+<a href="mailto:subhancs57@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Building scalable software that solves real-world problems through clean code, modern architecture, and AI-powered innovation."
+## 💡 Philosophy
+
+> **"I believe great software is built with clean architecture, scalable solutions, continuous learning, and a strong focus on solving real-world problems."**
+
+⭐ **If you like my work, feel free to connect or explore my repositories.**
 
 </div>
