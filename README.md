@@ -1,107 +1,210 @@
 # Hi 👋, I'm Muhammad Subhan
 
-## Full Stack MERN Developer | AI-Powered SaaS Builder
+<h3 align="center">
+🚀 Full Stack MERN Developer | AI-Powered SaaS Builder | React • Next.js • Node.js
+</h3>
 
-I'm a passionate Full Stack Developer with 1+ years of professional experience building scalable SaaS applications, AI-powered products, and production-ready web applications using the MERN stack.
+<p align="center">
+Passionate Full Stack Engineer with 1+ years of professional experience building scalable SaaS applications, AI-powered products, secure REST APIs, and modern web applications.
+</p>
 
-I enjoy solving real-world problems through clean architecture, modern frontend development, secure backend APIs, and AI integrations.
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 
----
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## 🚀 About Me
+<a href="mailto:subhancs57@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-* 💼 Full Stack Developer (React.js | Next.js | Node.js)
-* 🤖 Building AI-powered applications
-* ⚡ Strong in JavaScript & TypeScript
-* 🔐 Experience with JWT Authentication & RBAC
-* 💳 Built Stripe Payment Integration
-* 🌐 Passionate about SaaS Products
-* 📚 Learning AI Agents & System Design
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-React.js • Next.js • JavaScript • TypeScript • Redux Toolkit • Tailwind CSS • HTML5 • CSS3
-
-### Backend
-
-Node.js • Express.js • REST APIs • JWT Authentication • RBAC
-
-### Database
-
-MongoDB • PostgreSQL
-
-### Tools
-
-Git • GitHub • Postman • VS Code • Vercel • Railway
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
-## ⭐ Featured Projects
+# 💫 About Me
 
-### Vendor-Sphere (Multi-Vendor SaaS)
+✅ Full Stack MERN Developer
 
-Production-grade e-commerce platform with:
+🤖 AI Powered SaaS Applications
 
-* Admin Dashboard
-* Vendor Dashboard
-* Customer Dashboard
-* Stripe Payments
-* Authentication
-* RBAC
-* Order Management
+⚡ React.js & Next.js Expert
+
+🔐 Authentication • JWT • RBAC
+
+💳 Stripe Payment Integration
+
+📦 REST API Development
+
+🗄️ MongoDB & PostgreSQL
+
+🚀 Passionate about building production-ready applications
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgresql,firebase,git,github,postman,vscode,npm,yarn,vite,vercel,figma,linux,bash&theme=dark&perline=8"/>
+
+</p>
+
+---
+
+# 🧠 AI & Backend Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/RBAC-34495E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe"/>
+
+<img src="https://img.shields.io/badge/SaaS-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Responsive_UI-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API_Integration-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Performance_Optimization-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🛒 Vendor-Sphere
+
+Production-grade Multi Vendor E-Commerce Platform
+
+✔ Admin Dashboard
+
+✔ Vendor Dashboard
+
+✔ Customer Dashboard
+
+✔ Stripe Integration
+
+✔ JWT Authentication
+
+✔ RBAC
+
+✔ Order Management
+
+✔ REST APIs
+
+✔ Responsive UI
+
+---
+
+## 🤖 AI Headshot Generator
+
+Generate professional profile images using AI APIs.
 
 Tech:
-React • Next.js • Node.js • MongoDB • PostgreSQL • Stripe
+
+React
+
+Node.js
+
+Express.js
+
+MongoDB
+
+AI APIs
 
 ---
 
-### AI Headshot Generator
+## 🧠 Bug Hunter AI
 
-AI-powered application that generates professional profile photos using AI APIs.
+AI Powered Coding Interview Platform
 
-Tech:
-React • Express • AI APIs
+Features
 
----
+• AI Debugging
 
-### Bug Hunter AI
+• Smart Hints
 
-AI coding interview preparation platform.
+• Interactive Code Editor
 
-Features:
-
-* AI Debugging
-* Smart Hints
-* Interactive Code Editor
-* Mock Interviews
+• Mock Interviews
 
 ---
 
-### Real Estate Marketplace
+## 🏠 Real Estate Marketplace
 
-Modern property listing platform with search, authentication and responsive UI.
+Scalable MERN Marketplace
+
+✔ Authentication
+
+✔ Property Search
+
+✔ Filters
+
+✔ Responsive UI
+
+✔ REST APIs
 
 ---
 
-## 📊 Currently Improving
+# 📚 Currently Learning
 
-* AI Agents
-* LLM Integrations
-* System Design
-* Scalable SaaS Architecture
+🚀 AI Agents
+
+🚀 LLM Integrations
+
+🚀 Advanced System Design
+
+🚀 Cloud Architecture
 
 ---
 
-## 📫 Connect With Me
+# 💻 Coding Profiles
 
-Portfolio: https://yourportfolio.com
+🌐 GitHub
 
-LinkedIn:
-https://linkedin.com/in/yourprofile
+🌐 LinkedIn
 
-Email:
+🌐 Portfolio
+
+🌐 LeetCode
+
+🌐 HackerRank
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email:
 [subhancs57@gmail.com](mailto:subhancs57@gmail.com)
+
+💼 Open to:
+
+✔ Remote Full Stack Roles
+
+✔ AI Startup Opportunities
+
+✔ SaaS Engineering
+
+✔ React / Next.js Development
+
+✔ Freelance Projects
+
+---
+
+⭐ *Building software that solves real-world problems through clean architecture, scalable systems, and AI-powered experiences.*
