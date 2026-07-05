@@ -5,29 +5,24 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;AI+Powered+SaaS+Builder;React+%7C+Next.js+%7C+Node.js;Building+Production+Ready+Applications;Open+to+Remote+Opportunities" />
-</p>
 
----
-
-<p align="center" display="flex" justify-content="center">
-
-<a href="https://www.linkedin.com/in/muhammadsubhandev/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<a href="https://www.linkedin.com/in/muhammadsubhandev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-   
 
 <a href="mailto:subhancs57@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-   
-
-<a href="https://subhanportfolio-two.vercel.app/">
-<img src="https://img.icons8.com/fluency/96/domain.png" width="55"/>
+<a href="https://subhanportfolio-two.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="https://github.com/subhan513">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
    
 
 <a href="https://github.com/subhan513">
