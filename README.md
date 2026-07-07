@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Muhammad Subhan
+Hi , I'm Muhammad Subhan
 </h1>
 
 <h3 align="center">
@@ -167,9 +167,7 @@ Production-grade Multi Vendor E-Commerce Platform
 
 React • Node.js • Express • MongoDB • PostgreSQL • Stripe
 
-🔗 Live Demo
-
-🔗 Source Code
+🔗 Live Demo : https://multi-vendor-e-commerce-zrmx.vercel.app/
 
 ---
 
@@ -203,11 +201,9 @@ AI-powered Coding Interview Platform.
 - AI Feedback
 - Mock Interviews
 
-🔗 Live Demo
-
-🔗 Source Code
-
+🔗 Live Demo : https://bug-hunter-ai-tau.vercel.app/
 ---
+
 
 ## 🏡 Real Estate Marketplace
 
@@ -221,9 +217,7 @@ Modern Property Listing Platform.
 - REST APIs
 - Responsive UI
 
-🔗 Live Demo
-
-🔗 Source Code
+🔗 Live Demo : https://real-estate-mlx5.vercel.app/
 
 ---
 
