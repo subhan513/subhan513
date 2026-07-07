@@ -105,18 +105,18 @@
 * 
  ## Software Developer Intern | TenX
  
-⚙️ Built production-ready REST APIs using Node.js, Express.js, PostgreSQL, and Redis.
-🔐 Implemented JWT Authentication, Role-Based Access Control (RBAC), file uploads, and background jobs.
-🚀 Optimized database queries by resolving N+1 query issues and implementing eager loading.
-🗄️ Worked with PostgreSQL and Redis to improve backend performance and scalability.
-🤝 Collaborated with the development team using Git and Agile workflows.
+*⚙️ Built production-ready REST APIs using Node.js, Express.js, PostgreSQL, and Redis.
+*🔐 Implemented JWT Authentication, Role-Based Access Control (RBAC), file uploads, and background jobs.
+*🚀 Optimized database queries by resolving N+1 query issues and implementing eager loading.
+*🗄️ Worked with PostgreSQL and Redis to improve backend performance and scalability.
+*🤝 Collaborated with the development team using Git and Agile workflows.
   
 ## MERN Stack Developer Intern | DevWeekends (Dec 2025 – Jun 2026)
 
-💻 Built multiple production-style MERN applications including E-commerce and Real Estate Marketplace.
-🧩 Solved 150+ Data Structures & Algorithms problems in C++.
-🏗️ Learned scalable application architecture, backend optimization, and system design fundamentals.
-🔍 Improved debugging, problem-solving, and code quality through real-world development.
+*💻 Built multiple production-style MERN applications including E-commerce and Real Estate Marketplace.
+*🧩 Solved 150+ Data Structures & Algorithms problems in C++.
+*🏗️ Learned scalable application architecture, backend optimization, and system design fundamentals.
+*🔍 Improved debugging, problem-solving, and code quality through real-world development.
 
 # ⭐ Featured Projects
 
@@ -126,17 +126,17 @@ Production-grade Multi-Vendor E-Commerce SaaS Platform
 
 ### Features
 
-* ✅ Admin Dashboard
-* ✅ Vendor Dashboard
-* ✅ Customer Dashboard
-* ✅ Stripe Subscription System
-* ✅ Vendor Payouts
-* ✅ JWT Authentication
-* ✅ RBAC
-* ✅ REST APIs
-* ✅ Product Management
-* ✅ Order Management
-* ✅ Responsive Design
+*  Admin Dashboard
+*  Vendor Dashboard
+*  Customer Dashboard
+*  Stripe Subscription System
+*  Vendor Payouts
+*  JWT Authentication
+*  RBAC
+*  REST APIs
+*  Product Management
+*  Order Management
+*  Responsive Design
 
 **Tech Stack**
 
