@@ -95,7 +95,7 @@
 
 # 💼 Professional Experience
 
- ## Full Stack Developer | ZedStack
+ ## Full Stack Developer | ZedStack (Apr 2025 – Sep 2025)
 
 * 🤖 Developed an AI-powered Headshot Generator.
 * ⚡ Integrated AI APIs to improve image generation efficiency.
