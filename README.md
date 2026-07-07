@@ -1,11 +1,14 @@
-
 <h1 align="center">
-   Hi, I'm Muhammad Subhan
+Hi 👋, I'm Muhammad Subhan
 </h1>
 
 <h3 align="center">
- Full Stack MERN Developer • AI-Powered SaaS Builder • React • Next.js • Node.js
+Full Stack Software Engineer | MERN Stack | Node.js | React.js | Next.js | AI-Powered Applications
 </h3>
+
+<p align="center">
+Building scalable web applications, REST APIs, SaaS platforms, and AI-powered products.
+</p>
 
 <p align="center">
 
@@ -31,161 +34,200 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Work-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_to-Remote_•_Hybrid_•_Onsite-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-1.5+_Years-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Experience-1%2B%20Years-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-Full_Stack_Engineer-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20SaaS-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-AI_&_SaaS-purple?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 💫 About Me
+# 🚀 Highlights
 
-💻 Full Stack MERN Developer with **1.5 years of professional experience** building production-ready web applications.
-
-🚀 Passionate about building scalable SaaS platforms, AI-powered applications, REST APIs, and modern user experiences.
-
-🤖 Experienced in integrating AI APIs, secure authentication, Stripe payments, and scalable backend architectures.
-
-🌍 Open to **Remote Full Stack Engineering Opportunities**.
-
----
-
-#  Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgresql,firebase,git,github,postman,vscode,npm,vite,vercel,linux,bash,figma,docker&theme=dark&perline=7"/>
-
-</div>
+- 💼 1.5+ Years of Professional Experience
+- 🚀 Built 15+ Full Stack Applications
+- 🤖 Developed AI-powered SaaS Products
+- 🧩 Solved 150+ DSA Problems
+- 🔐 Experienced with Authentication, RBAC & Payment Systems
+- 🌍 Open to Full Stack Engineering Opportunities
 
 ---
 
-# 🤖 Backend • AI • SaaS
+# 👨‍💻 About Me
 
-<div align="center">
+I'm a Full Stack Software Engineer with 1.5+ years of experience building scalable web applications using React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and Redis.
 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+I enjoy designing clean architectures, building REST APIs, integrating AI services, and developing production-ready SaaS platforms that solve real-world business problems.
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+Currently focused on backend engineering, scalable system design, AI integrations, and cloud deployment.
 
-<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens"/>
+---
 
-<img src="https://img.shields.io/badge/RBAC-2C3E50?style=for-the-badge"/>
+# 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe"/>
+### Languages
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+JavaScript • TypeScript • C++
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+### Frontend
 
-<img src="https://img.shields.io/badge/Performance_Optimization-success?style=for-the-badge"/>
+React.js • Next.js • Redux Toolkit • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 
-<img src="https://img.shields.io/badge/System_Design-blue?style=for-the-badge"/>
+### Backend
 
-<img src="https://img.shields.io/badge/AI_Integration-red?style=for-the-badge"/>
+Node.js • Express.js • REST APIs • JWT Authentication • RBAC
 
-</div>
+### Database
+
+MongoDB • PostgreSQL • Redis
+
+### AI & APIs
+
+OpenAI API • Claude API • Cursor • GitHub Copilot • ChatGPT
+
+### Dev Tools
+
+Git • GitHub • Docker • Postman • VS Code • Vercel • Railway • Linux
+
+### Concepts
+
+System Design
+
+Performance Optimization
+
+Agile
+
+OOP
+
+Data Structures & Algorithms
 
 ---
 
 # 💼 Professional Experience
 
- ## Full Stack Developer | ZedStack (Apr 2025 – Sep 2025)
+## 🚀 Full Stack Developer | ZedStack
 
-* 🤖 Developed an AI-powered Headshot Generator.
-* ⚡ Integrated AI APIs to improve image generation efficiency.
-* 💻 Built responsive React.js interfaces.
-* 🔐 Developed secure backend APIs.
-* 🚀 Improved overall application performance and user experience.
-* 
- ## Software Developer Intern | TenX
- 
-*⚙️ Built production-ready REST APIs using Node.js, Express.js, PostgreSQL, and Redis.
-*🔐 Implemented JWT Authentication, Role-Based Access Control (RBAC), file uploads, and background jobs.
-*🚀 Optimized database queries by resolving N+1 query issues and implementing eager loading.
-*🗄️ Worked with PostgreSQL and Redis to improve backend performance and scalability.
-*🤝 Collaborated with the development team using Git and Agile workflows.
-  
-## MERN Stack Developer Intern | DevWeekends (Dec 2025 – Jun 2026)
+**Apr 2025 – Sep 2025**
 
-*💻 Built multiple production-style MERN applications including E-commerce and Real Estate Marketplace.
-*🧩 Solved 150+ Data Structures & Algorithms problems in C++.
-*🏗️ Learned scalable application architecture, backend optimization, and system design fundamentals.
-*🔍 Improved debugging, problem-solving, and code quality through real-world development.
+- 🤖 Developed an AI-powered Headshot Generator using the MERN stack.
+- ⚡ Integrated AI image generation APIs, reducing processing time by 30%.
+- 💻 Built responsive React.js interfaces for image upload, preview, and generation workflows.
+- 🔐 Developed secure REST APIs using Node.js and Express.js.
+- 🚀 Improved overall application performance and user experience.
+
+---
+
+## 💼 Software Developer Intern | TenX
+
+**Jun 2026**
+
+- ⚙️ Built production-ready REST APIs using Node.js, Express.js, PostgreSQL, and Redis.
+- 🔐 Implemented JWT Authentication, RBAC, file uploads, and background jobs.
+- 🚀 Optimized database queries by fixing N+1 issues and implementing eager loading.
+- 🗄️ Improved backend performance using PostgreSQL and Redis.
+- 🤝 Collaborated using Git, Pull Requests, and Agile development practices.
+
+---
+
+## 💻 MERN Stack Developer Intern | DevWeekends
+
+**Dec 2025 – Jun 2026**
+
+- 💻 Built multiple production-ready MERN applications.
+- 🏡 Developed E-commerce and Real Estate platforms.
+- 🧩 Solved 150+ Data Structures & Algorithms problems.
+- 🏗️ Learned scalable architecture, backend optimization, and system design.
+- 🔍 Improved debugging and software engineering best practices.
+
+---
 
 # ⭐ Featured Projects
 
 ## 🛒 Vendor-Sphere
 
-Production-grade Multi-Vendor E-Commerce SaaS Platform
+Production-grade Multi Vendor E-Commerce Platform
 
-### Features
+### Highlights
 
-*  Admin Dashboard
-*  Vendor Dashboard
-*  Customer Dashboard
-*  Stripe Subscription System
-*  Vendor Payouts
-*  JWT Authentication
-*  RBAC
-*  REST APIs
-*  Product Management
-*  Order Management
-*  Responsive Design
+- Admin Dashboard
+- Vendor Dashboard
+- Customer Dashboard
+- Stripe Subscription
+- Vendor Payout System
+- JWT Authentication
+- RBAC
+- REST APIs
+- Responsive UI
 
-**Tech Stack**
+**Tech**
 
-React • Next.js • Node.js • Express • MongoDB • PostgreSQL • Stripe
+React • Node.js • Express • MongoDB • PostgreSQL • Stripe
+
+🔗 Live Demo
+
+🔗 Source Code
 
 ---
 
 ## 🤖 AI Headshot Generator
 
-Generate professional AI-powered headshots using modern AI APIs.
+Professional AI-powered Headshot Generator.
 
-**Features**
+### Features
 
-* AI Image Generation
-* Image Upload
-* Responsive UI
-* Fast Processing
+- AI Image Generation
+- Image Upload
+- Fast Processing
+- Responsive UI
+- Secure Backend APIs
+
+🔗 Live Demo
+
+🔗 Source Code
 
 ---
 
 ## 🧠 Bug Hunter AI
 
-AI-powered Coding Interview Preparation Platform
+AI-powered Coding Interview Platform.
 
 ### Features
 
-* AI Debugging
-* Smart Hints
-* Interactive Code Editor
-* Mock Interviews
-* AI Feedback
+- AI Debugging
+- Smart Hints
+- Monaco Code Editor
+- AI Feedback
+- Mock Interviews
+
+🔗 Live Demo
+
+🔗 Source Code
 
 ---
 
 ## 🏡 Real Estate Marketplace
 
-Modern Property Listing Platform
+Modern Property Listing Platform.
 
 ### Features
 
-* Authentication
-* Property Search
-* Advanced Filters
-* Responsive Design
-* REST APIs
+- Authentication
+- Property Search
+- Advanced Filtering
+- REST APIs
+- Responsive UI
+
+🔗 Live Demo
+
+🔗 Source Code
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -195,23 +237,17 @@ Modern Property Listing Platform
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=subhan513&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=subhan513&theme=algolia&margin-w=15&margin-h=15"/>
 
 </p>
-
----
 
 <p align="center">
 
@@ -223,39 +259,42 @@ Modern Property Listing Platform
 
 # 🌱 Currently Learning
 
-* 🤖 AI Agents
-* 🧠 LLM Integrations
-* 🏗️ System Design
-* ☁️ Cloud Deployment
-* ⚙️ Scalable SaaS Architecture
+- AI Agents
+- LLM Integrations
+- System Design
+- Docker
+- Cloud Deployment
+- Scalable Backend Architecture
 
 ---
 
-# 📌 Current Focus
+# 🎯 Current Focus
 
-✔ Building AI-powered SaaS Applications
-
-✔ Production-Ready MERN Stack Projects
-
-✔ Advanced React & Next.js
-
-✔ Backend Performance Optimization
-
-✔ Clean Architecture
-
-✔ Writing Maintainable Code
+- Building AI-powered SaaS Products
+- Scalable Backend Systems
+- Advanced React & Next.js
+- Performance Optimization
+- Clean Architecture
+- Production-grade APIs
 
 ---
 
-# 🤝 Let's Connect
+# 🌎 Languages
+
+- 🇵🇰 Urdu — Native
+- 🇬🇧 English — Professional Working Proficiency
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/muhammadsubhandev/">
+<a href="https://www.linkedin.com/in/muhammadsubhandev">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://subhanportfolio-two.vercel.app/">
+<a href="https://subhanportfolio-two.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
 </a>
 
@@ -269,10 +308,10 @@ Modern Property Listing Platform
 
 <div align="center">
 
-## 💡 Philosophy
+> **"I enjoy building software that is scalable, maintainable, and solves real-world problems through clean architecture and continuous learning."**
 
-> **"I believe great software is built with clean architecture, scalable solutions, continuous learning, and a strong focus on solving real-world problems."**
+![](https://komarev.com/ghpvc/?username=subhan513&style=for-the-badge)
 
-⭐ **If you like my work, feel free to connect or explore my repositories.**
+⭐ If you find my projects interesting, feel free to connect or explore my repositories.
 
 </div>
