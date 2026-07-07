@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Full Stack MERN Developer • AI-Powered SaaS Builder • React • Next.js • Node.js
+ Full Stack MERN Developer • AI-Powered SaaS Builder • React • Next.js • Node.js
 </h3>
 
 <p align="center">
@@ -45,19 +45,17 @@
 
 # 💫 About Me
 
-💻 Full Stack MERN Developer with **1+ years of professional experience** building production-ready web applications.
+💻 Full Stack MERN Developer with **1.5 years of professional experience** building production-ready web applications.
 
 🚀 Passionate about building scalable SaaS platforms, AI-powered applications, REST APIs, and modern user experiences.
 
 🤖 Experienced in integrating AI APIs, secure authentication, Stripe payments, and scalable backend architectures.
 
-🌱 Currently learning **AI Agents**, **LLM Integrations**, **System Design**, and **Cloud Architecture**.
-
 🌍 Open to **Remote Full Stack Engineering Opportunities**.
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -97,15 +95,28 @@
 
 # 💼 Professional Experience
 
-## 🚀 Full Stack Developer | ZedStack
+ ## Full Stack Developer | ZedStack
 
 * 🤖 Developed an AI-powered Headshot Generator.
 * ⚡ Integrated AI APIs to improve image generation efficiency.
 * 💻 Built responsive React.js interfaces.
 * 🔐 Developed secure backend APIs.
 * 🚀 Improved overall application performance and user experience.
+* 
+ ## Software Developer Intern | TenX
+ 
+⚙️ Built production-ready REST APIs using Node.js, Express.js, PostgreSQL, and Redis.
+🔐 Implemented JWT Authentication, Role-Based Access Control (RBAC), file uploads, and background jobs.
+🚀 Optimized database queries by resolving N+1 query issues and implementing eager loading.
+🗄️ Worked with PostgreSQL and Redis to improve backend performance and scalability.
+🤝 Collaborated with the development team using Git and Agile workflows.
+  
+## MERN Stack Developer Intern | DevWeekends (Dec 2025 – Jun 2026)
 
----
+💻 Built multiple production-style MERN applications including E-commerce and Real Estate Marketplace.
+🧩 Solved 150+ Data Structures & Algorithms problems in C++.
+🏗️ Learned scalable application architecture, backend optimization, and system design fundamentals.
+🔍 Improved debugging, problem-solving, and code quality through real-world development.
 
 # ⭐ Featured Projects
 
