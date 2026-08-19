@@ -1,13 +1,13 @@
 <h1 align="center">
-Hi , I'm Muhammad Subhan
+Hi 👋, I'm Muhammad Subhan
 </h1>
 
 <h3 align="center">
-Full Stack Software Engineer | MERN Stack | Node.js | React.js | Next.js | AI-Powered Applications
+Full Stack Software Engineer | MERN Stack | Node.js | React.js | Next.js | AI | AWS | Docker
 </h3>
 
 <p align="center">
-Building scalable web applications, REST APIs, SaaS platforms, and AI-powered products.
+Building scalable web applications, REST APIs, SaaS platforms, AI-powered products, and cloud-deployed applications.
 </p>
 
 <p align="center">
@@ -36,11 +36,11 @@ Building scalable web applications, REST APIs, SaaS platforms, and AI-powered pr
 
 <img src="https://img.shields.io/badge/Open_to-Remote_•_Hybrid_•_Onsite-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Experience-1.5+_Years-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-1.5%2B_Years-orange?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Role-Full_Stack_Engineer-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Focus-AI_&_SaaS-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-AI_•_Cloud_•_SaaS-purple?style=for-the-badge"/>
 
 </p>
 
@@ -48,12 +48,14 @@ Building scalable web applications, REST APIs, SaaS platforms, and AI-powered pr
 
 # 🚀 Highlights
 
-- 💼 1.5+ Years of Professional Experience
-- 🚀 Built 15+ Full Stack Applications
-- 🤖 Developed AI-powered SaaS Products
-- 🧩 Solved 150+ DSA Problems
-- 🔐 Experienced with Authentication, RBAC & Payment Systems
-- 🌍 Open to Full Stack Engineering Opportunities
+* 💼 1.5+ Years of Professional Experience
+* 🚀 Built 15+ Full Stack Applications
+* 🤖 Developed AI-powered applications and SaaS products
+* ☁️ Deployed applications on AWS using Docker, EC2, ECR & Nginx
+* 🐳 Experience with containerization and production deployments
+* 🔐 Experienced with JWT Authentication, RBAC & Payment Systems
+* 🧩 Solved 150+ Data Structures & Algorithms Problems
+* 🌍 Open to Full Stack Engineering Opportunities
 
 ---
 
@@ -61,49 +63,47 @@ Building scalable web applications, REST APIs, SaaS platforms, and AI-powered pr
 
 I'm a Full Stack Software Engineer with 1.5+ years of experience building scalable web applications using React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and Redis.
 
-I enjoy designing clean architectures, building REST APIs, integrating AI services, and developing production-ready SaaS platforms that solve real-world business problems.
+I enjoy designing clean architectures, building production-ready REST APIs, integrating AI services, and developing SaaS platforms that solve real-world business problems.
 
-Currently focused on backend engineering, scalable system design, AI integrations, and cloud deployment.
+I also have hands-on experience with Docker, AWS EC2, Amazon ECR, Nginx, Linux, SSH, Security Groups, and cloud-based application deployment.
+
+Currently focused on backend engineering, scalable system design, AI integrations, DevOps practices, and cloud deployment.
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 JavaScript • TypeScript • C++
 
-### Frontend
+### 🎨 Frontend
 
 React.js • Next.js • Redux Toolkit • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 
-### Backend
+### ⚙️ Backend
 
 Node.js • Express.js • REST APIs • JWT Authentication • RBAC
 
-### Database
+### 🗄️ Databases
 
 MongoDB • PostgreSQL • Redis
 
-### AI & APIs
+### 🤖 AI & Development Tools
 
 OpenAI API • Claude API • Cursor • GitHub Copilot • ChatGPT
 
-### Dev Tools
+### ☁️ Cloud & DevOps
 
-Git • GitHub • Docker • Postman • VS Code • Vercel • Railway • Linux
+AWS EC2 • Amazon ECR • Docker • Nginx • Linux • AWS CLI • Docker CLI
 
-### Concepts
+### 🔧 Development Tools
 
-System Design
+Git • GitHub • Postman • VS Code • Vercel • Railway
 
-Performance Optimization
+### 🧠 Concepts
 
-Agile
-
-OOP
-
-Data Structures & Algorithms
+System Design • Clean Architecture • Performance Optimization • OOP • Agile • Data Structures & Algorithms
 
 ---
 
@@ -113,11 +113,11 @@ Data Structures & Algorithms
 
 **Apr 2025 – Sep 2025**
 
-- 🤖 Developed an AI-powered Headshot Generator using the MERN stack.
-- ⚡ Integrated AI image generation APIs, reducing processing time by 30%.
-- 💻 Built responsive React.js interfaces for image upload, preview, and generation workflows.
-- 🔐 Developed secure REST APIs using Node.js and Express.js.
-- 🚀 Improved overall application performance and user experience.
+* 🤖 Developed an AI-powered Headshot Generator using the MERN stack.
+* ⚡ Integrated AI image generation APIs, reducing processing time by 30%.
+* 💻 Built responsive React.js interfaces for image upload, preview, and generation workflows.
+* 🔐 Developed secure REST APIs using Node.js and Express.js.
+* 🚀 Improved overall application performance and user experience.
 
 ---
 
@@ -125,11 +125,11 @@ Data Structures & Algorithms
 
 **Jun 2026**
 
-- ⚙️ Built production-ready REST APIs using Node.js, Express.js, PostgreSQL, and Redis.
-- 🔐 Implemented JWT Authentication, RBAC, file uploads, and background jobs.
-- 🚀 Optimized database queries by fixing N+1 issues and implementing eager loading.
-- 🗄️ Improved backend performance using PostgreSQL and Redis.
-- 🤝 Collaborated using Git, Pull Requests, and Agile development practices.
+* ⚙️ Built production-ready REST APIs using Node.js, Express.js, PostgreSQL, and Redis.
+* 🔐 Implemented JWT Authentication, RBAC, file uploads, and background jobs.
+* 🚀 Optimized database queries by fixing N+1 issues and implementing eager loading.
+* 🗄️ Improved backend performance using PostgreSQL and Redis.
+* 🤝 Collaborated using Git, Pull Requests, and Agile development practices.
 
 ---
 
@@ -137,11 +137,11 @@ Data Structures & Algorithms
 
 **Dec 2025 – Jun 2026**
 
-- 💻 Built multiple production-ready MERN applications.
-- 🏡 Developed E-commerce and Real Estate platforms.
-- 🧩 Solved 150+ Data Structures & Algorithms problems.
-- 🏗️ Learned scalable architecture, backend optimization, and system design.
-- 🔍 Improved debugging and software engineering best practices.
+* 💻 Built multiple production-ready MERN applications.
+* 🏡 Developed E-commerce and Real Estate platforms.
+* 🧩 Solved 150+ Data Structures & Algorithms problems.
+* 🏗️ Learned scalable architecture, backend optimization, and system design.
+* 🔍 Improved debugging and software engineering best practices.
 
 ---
 
@@ -149,87 +149,158 @@ Data Structures & Algorithms
 
 ## 🛒 Vendor-Sphere
 
-Production-grade Multi Vendor E-Commerce Platform
+**Production-grade Multi-Vendor E-Commerce Platform**
 
 ### Highlights
 
-- Admin Dashboard
-- Vendor Dashboard
-- Customer Dashboard
-- Stripe Subscription
-- Vendor Payout System
-- JWT Authentication
-- RBAC
-- REST APIs
-- Responsive UI
+* 👨‍💼 Admin Dashboard
+* 🏪 Vendor Dashboard
+* 👤 Customer Dashboard
+* 💳 Stripe Subscription
+* 💰 Vendor Payout System
+* 🔐 JWT Authentication
+* 🛡️ Role-Based Access Control
+* 🔌 REST APIs
+* 📱 Responsive UI
 
 **Tech**
 
-React • Node.js • Express • MongoDB • PostgreSQL • Stripe
+React • Node.js • Express.js • MongoDB • PostgreSQL • Stripe
 
-🔗 Live Demo : https://multi-vendor-e-commerce-zrmx.vercel.app/
+🔗 **Live Demo:** https://multi-vendor-e-commerce-zrmx.vercel.app/
+
+---
+
+## ☁️ Etihad Estate — Dockerized Real Estate Platform
+
+**Full-stack real estate platform deployed on AWS using Docker, Amazon ECR, EC2, and Nginx.**
+
+### 🏡 Application Features
+
+* 🏠 Property Discovery
+* 🏘️ Buying, Selling & Rental Listings
+* 🔍 Property Search
+* 🔐 Authentication
+* 📱 Responsive UI
+* 🚀 Production Deployment
+
+### ☁️ DevOps & Deployment
+
+* 🐳 Containerized the Node.js backend using Docker.
+* 📦 Built and pushed Docker images to Amazon ECR.
+* ☁️ Deployed the application on a Linux-based AWS EC2 server.
+* 🔄 Configured Nginx as a reverse proxy to route HTTP traffic to the Docker container.
+* 🔐 Configured AWS Security Groups and server ports.
+* 🔑 Configured SSH access and environment variables.
+* 🛠️ Used Git, GitHub, Docker CLI, and AWS CLI for deployment and troubleshooting.
+* 🌐 Configured networking and server connectivity for production access.
+
+**Tech**
+
+React.js • Node.js • Express.js • MongoDB • Docker • AWS EC2 • Amazon ECR • Nginx • Linux • Git
+
+🔗 **Live Demo:** http://13.210.143.109/
 
 ---
 
 ## 🤖 AI Headshot Generator
 
-Professional AI-powered Headshot Generator.
+**Professional AI-powered Headshot Generator.**
 
 ### Features
 
-- AI Image Generation
-- Image Upload
-- Fast Processing
-- Responsive UI
-- Secure Backend APIs
+* 🤖 AI Image Generation
+* 📤 Image Upload
+* ⚡ Fast Processing
+* 📱 Responsive UI
+* 🔐 Secure Backend APIs
 
-🔗 Live Demo
+**Tech**
 
-🔗 Source Code
+React • Node.js • Express.js • MongoDB • AI APIs
+
+🔗 **Live Demo**
+
+🔗 **Source Code**
 
 ---
 
-☁️ Etihad Estate — Dockerized Real Estate Platform
-
-Full-stack real estate platform deployed on AWS using Docker, Amazon ECR, EC2, and Nginx.
-
-Features
-🏡 Property Discovery
-🏠 Buying, Selling & Rental Listings
-🔍 Property Search
-🔐 Authentication
-📱 Responsive UI
-🚀 Production Deployment
-🐳 Dockerized Backend
-☁️ AWS EC2 Deployment
-🔄 Nginx Reverse Proxy
-DevOps & Deployment
-🐳 Containerized the Node.js backend using Docker.
-☁️ Built and pushed Docker images to Amazon ECR.
-🚀 Deployed the application on a Linux-based AWS EC2 server.
-🔄 Configured Nginx as a reverse proxy to route HTTP traffic to the Docker container.
-🔐 Configured AWS Security Groups, server ports, environment variables, and SSH access.
-🛠️ Used Git, GitHub, Docker CLI, and AWS CLI for deployment and troubleshooting.
-
-Tech
-
-React.js • Node.js • Express.js • MongoDB • Docker • AWS EC2 • Amazon ECR • Nginx • Linux • Git
-
-🔗 Live Demo: http://13.210.143.109/
-
 ## 🧠 Bug Hunter AI
 
-AI-powered Coding Interview Platform.
+**AI-powered Coding Interview Platform.**
 
 ### Features
 
-- AI Debugging
-- Smart Hints
-- Monaco Code Editor
-- AI Feedback
-- Mock Interviews
+* 🐛 AI Debugging
+* 💡 Smart Hints
+* 💻 Monaco Code Editor
+* 🤖 AI Feedback
+* 🎯 Mock Interviews
 
-🔗 Live Demo : https://bug-hunter-ai-tau.vercel.app/
+**Tech**
+
+Next.js • React • Node.js • AI APIs • Monaco Editor
+
+🔗 **Live Demo:** https://bug-hunter-ai-tau.vercel.app/
+
+---
+
+## 🏡 Real Estate Marketplace
+
+**Modern Property Listing Platform.**
+
+### Features
+
+* 🔐 Authentication
+* 🏠 Property Listings
+* 🔍 Property Search
+* 🎯 Advanced Filtering
+* 🔌 REST APIs
+* 📱 Responsive UI
+
+**Tech**
+
+React • Node.js • Express.js • MongoDB
+
+🔗 **Live Demo:** https://real-estate-mlx5.vercel.app/
+
+---
+
+# ☁️ Cloud & DevOps Experience
+
+Hands-on experience deploying full-stack applications using:
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-ECR-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS_CLI-Deployment-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+</p>
+
+### Deployment Workflow
+
+```text
+Developer
+   ↓
+Git / GitHub
+   ↓
+Docker Image
+   ↓
+Amazon ECR
+   ↓
+AWS EC2
+   ↓
+Docker Container
+   ↓
+Nginx Reverse Proxy
+   ↓
+Internet
+```
+
 ---
 
 # 📊 GitHub Analytics
@@ -264,30 +335,34 @@ AI-powered Coding Interview Platform.
 
 # 🌱 Currently Learning
 
-- AI Agents
-- LLM Integrations
-- System Design
-- Docker
-- Cloud Deployment
-- Scalable Backend Architecture
+* 🤖 AI Agents
+* 🧠 LLM Integrations
+* 🏗️ System Design
+* 🐳 Docker & Containerization
+* ☁️ AWS & Cloud Deployment
+* 🔄 CI/CD
+* 📈 Scalable Backend Architecture
+* 🐧 Linux & DevOps
 
 ---
 
 # 🎯 Current Focus
 
-- Building AI-powered SaaS Products
-- Scalable Backend Systems
-- Advanced React & Next.js
-- Performance Optimization
-- Clean Architecture
-- Production-grade APIs
+* 🤖 Building AI-powered SaaS Products
+* ⚙️ Scalable Backend Systems
+* ☁️ Cloud & DevOps Engineering
+* 🚀 Production-grade Deployments
+* ⚛️ Advanced React & Next.js
+* 📈 Performance Optimization
+* 🏗️ Clean Architecture
+* 🔌 Production-ready APIs
 
 ---
 
 # 🌎 Languages
 
-- 🇵🇰 Urdu — Native
-- 🇬🇧 English — Professional Working Proficiency
+* 🇵🇰 Urdu — Native
+* 🇬🇧 English — Professional Working Proficiency
 
 ---
 
@@ -313,9 +388,9 @@ AI-powered Coding Interview Platform.
 
 <div align="center">
 
-> **"I enjoy building software that is scalable, maintainable, and solves real-world problems through clean architecture and continuous learning."**
+> **"I enjoy building software that is scalable, maintainable, and solves real-world problems through clean architecture, cloud technologies, and continuous learning."**
 
-![](https://komarev.com/ghpvc/?username=subhan513&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=subhan513\&style=for-the-badge)
 
 ⭐ If you find my projects interesting, feel free to connect or explore my repositories.
 
