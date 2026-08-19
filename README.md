@@ -189,6 +189,34 @@ Professional AI-powered Headshot Generator.
 
 ---
 
+☁️ Etihad Estate — Dockerized Real Estate Platform
+
+Full-stack real estate platform deployed on AWS using Docker, Amazon ECR, EC2, and Nginx.
+
+Features
+🏡 Property Discovery
+🏠 Buying, Selling & Rental Listings
+🔍 Property Search
+🔐 Authentication
+📱 Responsive UI
+🚀 Production Deployment
+🐳 Dockerized Backend
+☁️ AWS EC2 Deployment
+🔄 Nginx Reverse Proxy
+DevOps & Deployment
+🐳 Containerized the Node.js backend using Docker.
+☁️ Built and pushed Docker images to Amazon ECR.
+🚀 Deployed the application on a Linux-based AWS EC2 server.
+🔄 Configured Nginx as a reverse proxy to route HTTP traffic to the Docker container.
+🔐 Configured AWS Security Groups, server ports, environment variables, and SSH access.
+🛠️ Used Git, GitHub, Docker CLI, and AWS CLI for deployment and troubleshooting.
+
+Tech
+
+React.js • Node.js • Express.js • MongoDB • Docker • AWS EC2 • Amazon ECR • Nginx • Linux • Git
+
+🔗 Live Demo: http://13.210.143.109/
+
 ## 🧠 Bug Hunter AI
 
 AI-powered Coding Interview Platform.
@@ -202,23 +230,6 @@ AI-powered Coding Interview Platform.
 - Mock Interviews
 
 🔗 Live Demo : https://bug-hunter-ai-tau.vercel.app/
----
-
-
-## 🏡 Real Estate Marketplace
-
-Modern Property Listing Platform.
-
-### Features
-
-- Authentication
-- Property Search
-- Advanced Filtering
-- REST APIs
-- Responsive UI
-
-🔗 Live Demo : https://real-estate-mlx5.vercel.app/
-
 ---
 
 # 📊 GitHub Analytics
