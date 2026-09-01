@@ -46,7 +46,7 @@ Building scalable web applications, REST APIs, SaaS platforms, AI-powered produc
 
 # 👨‍💻 About Me
 
-I'm a Full Stack Software Engineer with 1.5+ years of experience building modern and scalable web applications using **React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and Redis**.
+I'm a Full Stack Software Engineer with 1 years of experience building modern and scalable web applications using **React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and Redis**.
 
 I enjoy designing clean architectures, building production-ready REST APIs, developing SaaS platforms, and integrating AI capabilities into real-world applications.
 
