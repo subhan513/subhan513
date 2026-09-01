@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Subhan</h1>
+<h1 align="center">Hi , I'm Muhammad Subhan</h1>
 
 <h3 align="center">
 Full Stack Software Engineer | MERN Stack | Node.js | React.js | Next.js | AI & Cloud
