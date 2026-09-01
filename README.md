@@ -33,7 +33,7 @@ Building scalable web applications, REST APIs, SaaS platforms, AI-powered produc
 
 # 🚀 Highlights
 
-* 💼 1.5+ Years of Professional Experience
+* 💼 1 Years of Professional Experience
 * 🚀 Built multiple Full Stack Applications and SaaS products
 * 🤖 Experience building AI-powered applications
 * ☁️ Hands-on experience deploying applications on AWS
